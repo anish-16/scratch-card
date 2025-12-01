@@ -1,0 +1,13 @@
+__turbopack_load_page_chunks__("/_app", [
+  "static/chunks/3c9af_next_dist_compiled_f7ec7b14._.js",
+  "static/chunks/3c9af_next_dist_shared_lib_f13c8990._.js",
+  "static/chunks/3c9af_next_dist_client_702f4f65._.js",
+  "static/chunks/3c9af_next_dist_3cc5a8bb._.js",
+  "static/chunks/3c9af_next_app_80fb579b.js",
+  "static/chunks/[next]_entry_page-loader_ts_c4e3000f._.js",
+  "static/chunks/3c9af_react-dom_6e9c50ea._.js",
+  "static/chunks/3c9af_bb65bc23._.js",
+  "static/chunks/[root-of-the-server]__635b822c._.js",
+  "static/chunks/Downloads_scratchCard_pages__app_2da965e7._.js",
+  "static/chunks/turbopack-Downloads_scratchCard_pages__app_41d67cbc._.js"
+])
